@@ -4,7 +4,7 @@
 
 > NLW Setup
 
-Projeto feito utilizando os conceitos de HTML, CSS e JavaScript com o objetivo de ajudar o usuário com o registro de atividades diárias.
+Projeto feito utilizando os conceitos de HTML, CSS e JavaScript com o objetivo de ajudar o usuário com o registro de atividades diárias. Este projeto também possui responsividade para aparelhos mobile.
 
 ## [🔗 Clique aqui para acessar o projeto](https://loren175.github.io/nlw-setup)
 
